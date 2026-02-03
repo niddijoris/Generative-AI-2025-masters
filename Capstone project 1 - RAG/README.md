@@ -46,7 +46,7 @@ A robust, RAG-based AI agent designed to assist users by answering questions fro
     OPENAI_API_KEY=sk-...
     GITHUB_TOKEN=ghp_...
     REPO_NAME=your_username/your_repo_name
-    PROJECT_FOLDER=Capstone Project 1 - RAG  # Used for ticket labels/titles
+    PROJECT_FOLDER=if_ur_project_has_folder_name_put_it_here  # Used for ticket labels/titles
     ```
 
 4.  **Add Knowledge Base**
@@ -67,19 +67,16 @@ streamlit run app.py
     *   If a high-confidence answer is found (Score > 0.7), it answers with citations.
     *   If relevant info is NOT found, it replies "I could not find the answer".
 3.  **Raise a Ticket**: If the answer was not found, a form appears allowing you to create a GitHub issue immediately.
-
-## 🧪 Testing & Verification
-
-*   **Test Ticket Creation**: Run the dedicated test script to verify GitHub connectivity:
-    ```bash
-    python test_ticket.py
-    ```
-*   **Verify Ingestion**: Check the terminal output when starting the app to see "Creating vector database..." logs.
-
-## 📁 Project Structure
+    
 
 *   `app.py`: Main Streamlit application entry point.
 *   `agent.py`: Core logic for the AI agent, RAG search, and TicketSystem.
 *   `ingest.py`: Script handles loading PDFs, chunking, and FAISS vector storage.
 *   `data/`: Directory for source PDF files.
 *   `vector_db/`: Directory where the FAISS index is saved locally.
+<img width="1157" height="818" alt="Image" src="https://github.com/user-attachments/assets/7b69e60d-33f6-4640-b82f-2b6e37978b8e" />
+
+<img width="1189" height="798" alt="Image" src="https://github.com/user-attachments/assets/e6466d6b-cd67-41c4-98e9-1afe7e33f6e4" />
+<img width="1189" height="798" alt="Image" src="https://github.com/user-attachments/assets/8ceb9ce8-731d-448c-9dc2-93cf5a6922af" />
+
+<img width="1338" height="90" alt="Image" src="https://github.com/user-attachments/assets/6d9b3139-c28f-436f-8196-6f5dcc119496" />
