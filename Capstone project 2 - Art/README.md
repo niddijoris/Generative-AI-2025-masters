@@ -64,6 +64,8 @@ To achieve high-quality results in under 60 seconds per image, the following KSa
 While running high-end diffusion models on a laptop remains a challenging task due to hardware constraints, this project demonstrates the critical importance of model optimization. Achieving a result in 2 hours and 25 minutes highlights the gap between local consumer hardware and dedicated high-performance computing, yet it proves that with the right configurations like GGUF and Turbo-sampling, creative exploration is possible even in constrained environments.
 ### that images
 <img width="680" height="1024" alt="Image" src="https://github.com/user-attachments/assets/96da11cf-11c0-4f40-b0d1-7b41bf169196" />
+
 <img width="240" height="240" alt="Image" src="https://github.com/user-attachments/assets/fffb6b11-d6ef-4ac1-ba46-1a6200549884" />
+
 <img width="640" height="1024" alt="Image" src="https://github.com/user-attachments/assets/b72102a3-1cf0-4821-a764-ce6d71d4580b" /> 
 
