@@ -25,25 +25,25 @@ Follow this step-by-step workflow to see the magic in action.
 ### 1. Speak Your Idea
 Open the app and use the **Recorder** at the bottom. Simply click the microphone icon and describe the image you want to see.
 
-![Recording Stage](.screenshots/1.png)
+![Recording Stage](screenshots/1.png)
 *Status: Capturing audio and preparing for transcription.*
 
 ### 2. Live Processing
 The system provides real-time feedback. It transcribes your voice and displays what it understood. You'll see a success message showing your captured text.
 
-![Processing Stage](.screenshots/3.png)
+![Processing Stage](screenshots/3.png)
 *Status: System logs show the internal operations (sidebar) while the main UI displays the transcribed text.*
 
 ### 3. Behold the Result
 The agent generates a detailed prompt and creates your image. The results are displayed in a clean, chat-like interface.
 
-![Result Stage](.screenshots/2.png)
+![Result Stage](screenshots/2.png)
 *Example: "Create me a snow leopard" transformed into a stunning mountain scene.*
 
 ### 4. Continuous Interaction
 You can keep adding more images or refining your ideas. All system logs are tracked in the sidebar to ensure transparency.
 
-![Multi-turn Interaction](.screenshots/4.png)
+![Multi-turn Interaction](screenshots/4.png)
 *Example: Following up with "A blue robot."*
 
 ---
