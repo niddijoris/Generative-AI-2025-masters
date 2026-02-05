@@ -3,7 +3,7 @@
 A robust, RAG-based AI agent designed to assist users by answering questions from local PDF documentation and seamlessly creating GitHub support tickets when answers are unavailable.
 
 ## hugging face link
-[niddijoris/RAG_Customer_Support](https://huggingface.co/spaces/niddijoris/RAG_Customer_Support)
+[niddijoris/RAG_Customer_Support](https://huggingface.co/spaces/niddijoris/RAGCustomerSupportAgent)
 ## 🌟 Features
 
 *   **RAG (Retrieval-Augmented Generation)**: Answers user queries using a local knowledge base created from PDF documents.
