@@ -9,12 +9,12 @@ An AI-powered data analysis platform that allows users to explore a massive car 
 
 | Dashboard Overview | AI Chat & Analytics |
 | :---: | :---: |
-| ![Dashboard Overview](./screenshots/1.png) | ![AI Chat & Analytics](/screenshots/2.png) |
+| ![Dashboard Overview](./screenshots/1.png) | ![AI Chat & Analytics](./screenshots/2.png) |
 | **Real-time Statistics & Insights** | **Intelligent Querying & Data Analysis** |
 
 | Dynamic Chart Generation | Safety & Logs |
 | :---: | :---: |
-| ![Chart Generation](/screenshots/3.png) | ![Console Logs](/screenshots/4.png) |
+| ![Chart Generation](./screenshots/3.png) | ![Console Logs](./screenshots/4.png) |
 | **AI-driven Visualizations** | **Security Guardrails & Activity Monitoring** |
 
 ---
