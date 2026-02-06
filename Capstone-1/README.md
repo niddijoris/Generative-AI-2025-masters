@@ -18,7 +18,8 @@ An AI-powered data analysis platform that allows users to explore a massive car 
 | **AI-driven Visualizations** | **Security Guardrails & Activity Monitoring** |
 
 ---
-
+## issue ticket 
+<img width="1227" height="68" alt="Image" src="https://github.com/user-attachments/assets/d725212b-bfec-4665-8482-ad7bc7f5700f" />
 ## 🌟 Key Features
 
 ### 🤖 Intelligent AI Agent
